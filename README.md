@@ -1,4 +1,10 @@
-# Add bonescript api and enable UART pins as services to start after boot
+
+git clone --depth 1 https://github.com/NubeIO/egde-28-lora-connect-reset.git
+
+
+
+
+## Add bonescript api and enable UART pins as services to start after boot
 ## Copy service files to /lib/systemd/system/
 
 ```
