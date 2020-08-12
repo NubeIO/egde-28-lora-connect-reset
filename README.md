@@ -1,5 +1,8 @@
+## to install git clone
 
+```
 git clone --depth 1 https://github.com/NubeIO/egde-28-lora-connect-reset.git
+```
 
 
 
